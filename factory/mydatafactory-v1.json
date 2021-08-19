@@ -1,0 +1,9 @@
+{
+	"name": "mydatafactory-v1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "918ff80f-d8e9-4d35-8cc7-b26d5e5595d0",
+		"tenantId": "86261a41-151c-48ee-a19e-f5c56f171084"
+	}
+}
